@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "random.h"
-//Fuction Prototype
+//Function Prototype
 int randchar();
 
 int randchar(){
